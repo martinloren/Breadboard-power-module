@@ -18,3 +18,7 @@ The power LED will notify the user of line power availability status. In case of
 - ON-OFF Switch available.
 - Onboard power LED for each power line
 - Dimension: 53mm x 35mm (L x W)
+
+### About Martinloren
+We design electronic instrumentation and tools to empower your work.
+More information on [martinloren.com](https://www.martinloren.com/).
